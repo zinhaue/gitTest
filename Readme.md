@@ -2,6 +2,9 @@
 
 ### modified in remote repository
 
-### for feth
 
 ### modified2 in local repository
+
+### for fetch
+
+### modified2 in remote repository
